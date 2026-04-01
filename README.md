@@ -12,9 +12,11 @@ the way product teams discover what to build — and turning those findings into
 
 ## Currently working on
 
-- Product Discovery Director @ Autopay
-- PhD research on AI tools in the Product Discovery process
-- Mentoring product managers through their first discovery cycles
+- Product Discovery Director @Autopay
+- AI Solutions: Products and Operational @Autopay
+- PhD research on AI tools in the Product Discovery process @Uniwersytet Zielonogórski
+- Mentoring @Colonea
+- Co-organizing [Product Pro Summit](https://productprosummit.pl/) — the coolest product non-conference in Poland
 
 ## What you'll find here
 
