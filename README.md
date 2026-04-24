@@ -24,7 +24,8 @@ the way product teams discover what to build — and turning those findings into
 Tools built for Product Managers, Developers, and AI practitioners — starting from real 
 operational problems, shipped with Claude Code:
 
--🎮 **Help By Play** — open-source gaming platform where players generate ad revenue for NGOs directly via Google AdSense (→ [helpbyplay.com](https://helpbyplay.com))
+
+- 🎮 **Help By Play** — open-source gaming platform where players generate ad revenue for NGOs directly via Google AdSense (→ [helpbyplay.com](https://helpbyplay.com))
 - 🛠️ **MCP servers** — production-ready integrations connecting AI assistants to real data
   (e.g. [MatomoMCP](https://github.com/ProductPope/matomoMCP) — analytics for Claude Desktop)
 - ♿ **Accessibility tooling** — automated WCAG compliance workflows built with Claude Code
