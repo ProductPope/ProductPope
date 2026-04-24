@@ -14,6 +14,7 @@ the way product teams discover what to build — and turning those findings into
 
 - Product Discovery Director @Autopay
 - AI Solutions: Products and Operational @Autopay
+- Building [Help By Play](https://helpbyplay.com) — community initiative turning gameplay into charity funding
 - PhD research on AI tools in the Product Discovery process @Uniwersytet Zielonogórski
 - Mentoring @Colonea
 - Co-organizing [Product Pro Summit](https://productprosummit.pl/) — the coolest product non-conference in Poland
@@ -23,6 +24,7 @@ the way product teams discover what to build — and turning those findings into
 Tools built for Product Managers, Developers, and AI practitioners — starting from real 
 operational problems, shipped with Claude Code:
 
+-🎮 **Help By Play** — open-source gaming platform where players generate ad revenue for NGOs directly via Google AdSense (→ [helpbyplay.com](https://helpbyplay.com))
 - 🛠️ **MCP servers** — production-ready integrations connecting AI assistants to real data
   (e.g. [MatomoMCP](https://github.com/ProductPope/matomoMCP) — analytics for Claude Desktop)
 - ♿ **Accessibility tooling** — automated WCAG compliance workflows built with Claude Code
