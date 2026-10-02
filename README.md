@@ -1,48 +1,58 @@
 # Hi, I'm Marcin 👋
 
-Product Discovery Director with a researcher's mindset. I'm exploring how AI changes 
-the way product teams discover what to build — and turning those findings into my PhD dissertation.
+**Hands-on Product Builder.** Product Discovery Director who doesn't stop at the spec —
+I design, build and ship working products myself, using AI (Claude Code) as my engineering team.
 
-## What I do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcin%20Woźny-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcinwozny)
+[![productpope.com](https://img.shields.io/badge/web-productpope.com-111111)](https://productpope.com)
+[![AutopayLab](https://img.shields.io/badge/GitHub-AutopayLab-181717?logo=github)](https://github.com/autopaylab)
 
-- 🔍 **Product Discovery** — structuring messy user insights into decisions worth building
-- 🤖 **AI in Product work** — researching and applying AI tools across the discovery process
-- ⚙️ **Dev-ready specs** — bridging the gap between product thinking and engineering execution
-- 🎤 **Workshops & consulting** — helping teams go from talk to real action (→ productpope.com)
+---
 
-## Currently working on
+## 🏗️ Building at Autopay — [@AutopayLab](https://github.com/autopaylab)
 
-- Product Discovery Director @Autopay
-- AI Solutions: Products and Operational @Autopay
-- Building [Help By Play](https://helpbyplay.com) — community initiative turning gameplay into charity funding
-- PhD research on AI tools in the Product Discovery process @Uniwersytet Zielonogórski
-- Mentoring @Colonea
-- Co-organizing [Product Pro Summit](https://productprosummit.pl/) — the coolest product non-conference in Poland
+At Autopay I'm Product Discovery Director and lead AI Solutions (product & operational).
+Under **AutopayLab** I independently build advanced, production-grade solutions — from
+discovery through architecture to deployed code:
 
-## What you'll find here
+- 🤖 **AI-powered internal products** — tools that automate real operational processes
+- 🔌 **MCP servers & integrations** — connecting AI assistants to company data and systems
+- ⚙️ **Rapid prototypes → production** — validating ideas with working software, not slide decks
 
-Tools built for Product Managers, Developers, and AI practitioners — starting from real 
-operational problems, shipped with Claude Code:
+## 🚀 Side projects
 
+Products I build and run on my own — end to end, from idea to live site:
 
-- 🎮 **Help By Play** — open-source gaming platform where players generate ad revenue for NGOs directly via Google AdSense (→ [helpbyplay.com](https://helpbyplay.com))
-- 🛠️ **MCP servers** — production-ready integrations connecting AI assistants to real data
-  (e.g. [MatomoMCP](https://github.com/ProductPope/matomoMCP) — analytics for Claude Desktop)
-- ♿ **Accessibility tooling** — automated WCAG compliance workflows built with Claude Code
-- 🖥️ **Desktop monitoring** — Claude-native tools for operational product oversight
-- 📋 **Discovery frameworks** — prompt libraries and templates for structured product research
-- 📄 **Developer handoff docs** — specs and components ready for engineering teams
-- 🔬 **Research notes** — findings from my PhD work on AI in Product Discovery
+| Project | What it is |
+|---|---|
+| 🎮 [**Help By Play**](https://helpbyplay.com) | Open-source gaming platform — players play, NGOs earn from ad revenue. Zero cost for players, 100% of revenue goes to the organizations. |
+| 📰 [**COwZG**](https://cowzg.pl) | "Co w Zielonej Górze?" — local news from city portals and an events calendar in one place. |
+| 🔤 [**fontestnry.com**](https://fontestnry.com) | Independent web product, designed and shipped solo. |
 
-## My approach
+## ⚡ Quick wins
 
-I use Claude Code to close the gap between product intent and working software — without 
-a dev team. Most tools here started as a real operational need and ended up as open-source 
-releases useful beyond their original context.
+Small, fast improvements that remove friction right away — built solo in days, not quarters:
 
-If it solves a product problem and Claude could build it — it belongs here.
-More tools shipping regularly.
+- 💬 **yourCX MCP** — MCP server connecting AI assistants to yourCX customer-experience data
+- 📊 [**MatomoMCP**](https://github.com/ProductPope/matomoMCP) — Matomo analytics available directly in Claude Desktop
+- ♿ **Accessibility tooling** — automated WCAG compliance workflows
 
-## Let's connect
+## 🧭 How I work
 
-[LinkedIn](https://linkedin.com/in/marcinwozny) · [productpope.com](https://productpope.com)
+- **Discovery first** — start from a real user or operational problem, not from a technology
+- **Build to learn** — the fastest way to validate an idea is a working product
+- **Ship end to end** — product thinking, UX, code, deployment and iteration in one pair of hands
+- **AI-native** — Claude Code closes the gap between product intent and working software
+
+## 🎓 Also
+
+- PhD research on AI tools in the Product Discovery process @ Uniwersytet Zielonogórski
+- Mentor @ Colonea
+- Co-organizer of [Product Pro Summit](https://productprosummit.pl/) — the coolest product non-conference in Poland
+- Workshops & consulting for product teams → [productpope.com](https://productpope.com)
+
+## 🤝 Let's connect
+
+Open to conversations about AI in product work, hands-on product building and discovery.
+
+👉 [LinkedIn](https://linkedin.com/in/marcinwozny) · [productpope.com](https://productpope.com) · [AutopayLab on GitHub](https://github.com/autopaylab)
