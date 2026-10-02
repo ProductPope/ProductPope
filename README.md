@@ -27,7 +27,7 @@ Products I build and run on my own — end to end, from idea to live site:
 |---|---|
 | 🎮 [**Help By Play**](https://helpbyplay.com) | Open-source gaming platform — players play, NGOs earn from ad revenue. Zero cost for players, 100% of revenue goes to the organizations. |
 | 📰 [**COwZG**](https://cowzg.pl) | "Co w Zielonej Górze?" — local news from city portals and an events calendar in one place. |
-| 🔤 [**FontSentry**](https://fontsentry.com) | Open-source tool that audits web fonts across all your domains for licensing & privacy risks — deterministic verdicts with a plain reason for each, runs entirely on your machine. |
+| 🔤 [**FontSentry**](https://fontsentry.com) | Open-source tool that audits web fonts across all your domains for licensing & privacy risks — deterministic verdicts with a plain reason for each, runs entirely on your machine. ([GitHub](https://github.com/ProductPope/fontsentry)) |
 
 ## ⚡ Quick wins
 
