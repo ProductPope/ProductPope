@@ -31,6 +31,7 @@ Products I build and run on my own, end to end, from idea to live site:
 | 🔔 [**mailbell**](https://github.com/ProductPope/mailbell) | Open-source bell for important email. A local AI decision model ([Nimble](https://ollama.com/library/nimble) on Ollama) reads each new message and plays a sound only when it matters. 100% private, nothing leaves your computer. |
 | 🎙️ [**dictAItor**](https://github.com/ProductPope/voice2text) | Local dictation for people who think while they talk. Speech recognition (Whisper) runs on your machine, pauses are understood as thinking rather than full stops, it learns your corrections, and nothing is sent until you say your safe phrase. Built for Polish with English tech terms mixed in. |
 | 🌳 [**diagram-4-llm**](https://github.com/ProductPope/diagram-4-llm) | A chat client for LLMs where a conversation is a graph, not a scroll. Fork at any message, see every branch on a canvas and control exactly what context each branch sends to the model. Runs in your browser with Claude or a local model. ([Try it](https://productpope.github.io/diagram-4-llm/)) |
+| 💡 [**Verbe**](https://productpope.github.io/VerbeApp/) | A quote a day from philosophy and self-development, on your phone. Installable PWA with full-screen cards, a daily notification, favourites and hidden quotes kept on your device (no account). Only public-domain texts, each verified word for word against its source edition; English with Polish translations. ([GitHub](https://github.com/ProductPope/VerbeApp)) |
 
 ## ⚡ Quick wins
 
